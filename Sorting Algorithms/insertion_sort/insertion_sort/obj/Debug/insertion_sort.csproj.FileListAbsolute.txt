@@ -1,0 +1,5 @@
+c:\users\abbas\documents\visual studio 2012\Projects\insertion_sort\insertion_sort\obj\Debug\insertion_sort.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2012\Projects\insertion_sort\insertion_sort\bin\Debug\insertion_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\insertion_sort\insertion_sort\bin\Debug\insertion_sort.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\insertion_sort\insertion_sort\obj\Debug\insertion_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\insertion_sort\insertion_sort\obj\Debug\insertion_sort.pdb

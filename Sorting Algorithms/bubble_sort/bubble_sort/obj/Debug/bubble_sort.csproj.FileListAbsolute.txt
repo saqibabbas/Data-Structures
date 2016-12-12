@@ -1,0 +1,4 @@
+c:\users\abbas\documents\visual studio 2012\Projects\bubble_sort\bubble_sort\bin\Debug\bubble_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\bubble_sort\bubble_sort\bin\Debug\bubble_sort.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\bubble_sort\bubble_sort\obj\Debug\bubble_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\bubble_sort\bubble_sort\obj\Debug\bubble_sort.pdb

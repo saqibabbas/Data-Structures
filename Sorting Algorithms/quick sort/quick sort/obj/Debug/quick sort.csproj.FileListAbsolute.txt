@@ -1,0 +1,5 @@
+c:\users\abbas\documents\visual studio 2012\Projects\quick sort\quick sort\bin\Debug\quick sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\quick sort\quick sort\bin\Debug\quick sort.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\quick sort\quick sort\obj\Debug\quick sort.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2012\Projects\quick sort\quick sort\obj\Debug\quick sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\quick sort\quick sort\obj\Debug\quick sort.pdb

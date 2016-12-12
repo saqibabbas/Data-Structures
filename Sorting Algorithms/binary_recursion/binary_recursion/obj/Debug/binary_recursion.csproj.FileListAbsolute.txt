@@ -1,0 +1,6 @@
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\bin\Debug\binary_recursion.exe.config
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\bin\Debug\binary_recursion.exe
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\bin\Debug\binary_recursion.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\obj\Debug\binary_recursion.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\obj\Debug\binary_recursion.exe
+c:\users\abbas\documents\visual studio 2012\Projects\binary_recursion\binary_recursion\obj\Debug\binary_recursion.pdb

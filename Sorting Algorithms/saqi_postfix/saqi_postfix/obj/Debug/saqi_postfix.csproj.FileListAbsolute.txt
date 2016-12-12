@@ -1,0 +1,5 @@
+c:\users\abbas\documents\visual studio 2012\Projects\saqi_postfix\saqi_postfix\obj\Debug\saqi_postfix.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2012\Projects\saqi_postfix\saqi_postfix\bin\Debug\saqi_postfix.exe
+c:\users\abbas\documents\visual studio 2012\Projects\saqi_postfix\saqi_postfix\bin\Debug\saqi_postfix.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\saqi_postfix\saqi_postfix\obj\Debug\saqi_postfix.exe
+c:\users\abbas\documents\visual studio 2012\Projects\saqi_postfix\saqi_postfix\obj\Debug\saqi_postfix.pdb

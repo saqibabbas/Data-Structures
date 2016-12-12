@@ -1,0 +1,5 @@
+c:\users\abbas\documents\visual studio 2012\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+c:\users\abbas\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.csprojResolveAssemblyReference.cache
+c:\users\abbas\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+c:\users\abbas\documents\visual studio 2012\Projects\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
